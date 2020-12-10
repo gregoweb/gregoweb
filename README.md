@@ -1,3 +1,7 @@
+### 🔭 I’m currently working on
+- https://github.com/gregoweb/light
+- https://github.com/gregoweb/bash-scripts
+
 ### Find my other works or contact me ✨
 
 - 💾 main website https://gregoweb.ovh
