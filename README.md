@@ -1,5 +1,11 @@
-### Hi there 👋
+### Find my other works or contact me ✨
 
+- 💾 main website https://gregoweb.ovh
+- 🌟 blog https://blog.gregoweb.ovh
+- 📝 wiki https//wiki.gregoweb.ovh
+- 🎮 My games created https://r2d48.itch.io/
+- 💼 Linkedin https://www.linkedin.com/in/gregoire-vadet/
+- 🐦 Twitter https://twitter.com/gregoweb
 <!--
 **gregoweb/gregoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
