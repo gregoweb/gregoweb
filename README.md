@@ -1,6 +1,6 @@
 ### 🔭 I’m currently working on
 - https://github.com/gregoweb/tarteaucitron.js
-- https://github.com/gregoweb/light
+- https://github.com/gregoweb/Tiny-Dark-CSS
 - https://github.com/gregoweb/bash-scripts
 
 ### Find my other works or contact me ✨
