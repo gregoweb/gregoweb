@@ -1,5 +1,6 @@
 ### 🔭 I’m currently working on
-- https://github.com/gregoweb/tarteaucitron.js
+- https://github.com/gregoweb/name-generator
+- https://github.com/gregoweb/Symfony-Cheat-Sheet
 - https://github.com/gregoweb/Tiny-Dark-CSS
 - https://github.com/gregoweb/bash-scripts
 
